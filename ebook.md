@@ -20,6 +20,19 @@ a list of ebook
 
 - [agentzh's Nginx Tutorials](http://openresty.org/#eBooks)
 
+
+## Links
+
+- nginx
+	- [www.nginx.cn](http://www.nginx.cn/)
+
+- book 
+	- [IT ebook](http://get.ftqq.com/)
+
+- others
+	- [GET 社区](http://get.ftqq.com/)
+	- [程序员博客墙](http://blogwall.us/)
+	
 	
 
 
